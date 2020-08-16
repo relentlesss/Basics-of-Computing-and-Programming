@@ -1,3 +1,6 @@
+#Lab 1 from week 3
+#Author: relentlesss
+
 print("Please enter the number of coins:")
 
 quarters = int(input("# of quarters: "))
