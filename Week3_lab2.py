@@ -1,3 +1,6 @@
+#Lab 2 from week 3 of the Basics of Computing and Programming from NYUx
+#Author: relentlesss
+
 print('Please enter the amount of money to convert: ')
 
 dollars = int(input('# of dollars: '))
