@@ -1,4 +1,4 @@
-#Lab 1 from week 3
+#Lab 1 from week 3 of the Basics of Computing and Programming from NYUx
 #Author: relentlesss
 
 print("Please enter the number of coins:")
