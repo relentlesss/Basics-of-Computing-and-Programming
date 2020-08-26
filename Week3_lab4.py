@@ -1,4 +1,4 @@
-#Lab 1 from week 3 of the Basics of Computing and Programming from NYUx
+#Lab 4 from week 3 of the Basics of Computing and Programming from NYUx
 #Author: relentlesss
 
 weight_pounds = input('Please enter weight in pounds: ')
